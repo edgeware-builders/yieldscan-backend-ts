@@ -1,13 +1,13 @@
 # YieldScan Backend - Edgeware
 
-This serves as a backend for [Yieldscan Edgeware Integration frontend](https://github.com/nblogist/yieldscan-frontend).
+This serves as a backend for [Yieldscan Edgeware Integration frontend](https://github.com/edgeware-builders/yieldscan-frontend).
 
   ## Development
 
 Clone the repository:
 
 ```
-git clone https://github.com/nblogist/yieldscan-backend-ts.git
+git clone https://github.com/edgeware-builders/yieldscan-backend-ts.git
 ```
 
 cd into the main folder:
@@ -235,7 +235,7 @@ Please submit pull requests to us using the format described while making a pull
 
 * **Furqan Ahmed** - Edgeware Integration - [Contact](https://www.flow.page/FurqanAhmed)
 
-See also the list of [contributors](https://github.com/nblogist/yieldscan-backend-ts/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/edgeware-builders/yieldscan-backend-ts/contributors) who participated in this project.
 
 ## Acknowledgments
 
